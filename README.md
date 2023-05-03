@@ -26,7 +26,7 @@ L'entreprise souhaite faire le point après ces deux ans d'exercice, et pouvoir 
 <br>
 
 ## Notebook Jupyter
-<a href="https://github.com/StephaneBertrand34/Python-Analysez_les_ventes_d-une_librairie_en_ligne/blob/main/P6.ipynb" target="_blank" title="Notebook.ipynb">Cliquer ici</a>
+<a href="https://github.com/StephaneBertrand34/Python-Analysez_les_ventes_d-une_librairie_en_ligne/blob/main/P6.ipynb" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
 
 ## Support de présentation du projet
-<a href="https://github.com/StephaneBertrand34/Python-Analysez_les_ventes_d-une_librairie_en_ligne/blob/main/Bertrand_St%C3%A9phane_1_presentation_022022.pdf" title="Présentation.pdf">Cliquer ici</a>
+<a href="https://github.com/StephaneBertrand34/Python-Analysez_les_ventes_d-une_librairie_en_ligne/blob/main/Bertrand_St%C3%A9phane_1_presentation_022022.pdf" target="_blank" title="Présentation.pdf">Présentation.pdf</a>
