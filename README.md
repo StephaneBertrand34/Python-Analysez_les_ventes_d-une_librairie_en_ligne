@@ -1,5 +1,6 @@
 # Analysez les ventes d'une librairie en ligne
----
+
+<br>
 
 ## Compétences acquises à l'issue du projet
 * Réaliser un test statistique
